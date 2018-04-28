@@ -9,6 +9,6 @@ const personRoute = require('./routes/personRoute');
 
 
 app.use('/', index);
-app.use('/persons', personRoute);
+app.use('/person', personRoute);
 
 module.exports = app;

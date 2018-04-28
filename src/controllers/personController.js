@@ -5,7 +5,7 @@ exports.get = (req, res, next) => {
 };
 
 
-exports.getBYId = (req, res, next) => {
+exports.getById = (req, res, next) => {
     res.status(200).send('Requisição recebida com sucesso!');
 };
 
