@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.15.4",
     "mongoose": "^5.0.16",
     "redis": "^2.8.0"
