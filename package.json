@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "dependencies": {
-        "express": "^4.15.4",
+        "express": "^4.17.3",
         "mongoose": "^5.0.16",
         "redis": "^2.8.0"
     },
